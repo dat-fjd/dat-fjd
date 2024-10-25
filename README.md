@@ -3,39 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang Bánh Mì Ngẫu</title>
+    <title>BÁNH MÌ NGẪU</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Chào Mừng Đến Với Tiệm Bánh Mì Ngẫu</h1>
+        <h1>BÁNH MÌ Ngẫu</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Trang Chủ</a></li>
+                <li><a href="#">Sản Phẩm</a></li>
+                <li><a href="#">Liên Hệ</a></li>
+            </ul>
+        </nav>
     </header>
     <main>
         <section class="intro">
-         <img src="https://tse3.mm.bing.net/th?id=OIG2.o9gcE8JzOIU5r16l3I_4&pid=ImgGn.jpg" alt="Bánh mì nấm ngon" width="600">
-             <p>Nân cao sức khỏe</p>
-            <img src="https://tse3.mm.bing.net/th?id=OIG2.DdxQU4fFKgcvXDWqCgqe&pid=ImgGn.jpg" alt="Bánh mì nấm ngon" width="600">
-            <h2>Giới Thiệu</h2>
-            <p>Tiệm Bánh Mì Nấm chuyên cung cấp các loại bánh mì tươi ngon, chất lượng cao. Hãy đến và thưởng thức!</p>
+            <h2>Chào mừng đến với Ngẫu!</h2>
+            <p>Lựa chọn cho bữa sáng .</p>
+            <img src="https://tse3.mm.bing.net/th?id=OIG2.DdxQU4fFKgcvXDWqCgqe&pid=ImgGn.jpg" alt="BÁNH MÌ" width="1000">
         </section>
         <section class="products">
             <h2>Sản Phẩm</h2>
             <ul>
-                <li>Bánh Mì Nấm Hương</li>
-                <li>Bánh Mì Nấm Đùi Gà</li>
-                <li>Bánh Mì Nấm Mỡ</li>
-                <li>Bánh Mì Chay</li>
-                    <h2>Địa chỉ</h2>
-            <ul>
-                <li>chi nhánh 1</li>
-                <li>chi nhánh 2</li>
-                <li>chi nhánh 3</li>
-                <li>chi nhánh 4</li>
+                <li>
+                    <img src="https://th.bing.com/th?id=OSK.68e169e14bb9c5cd62a9ab0d3af7b89e&w=164&h=86&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1" alt="Sản phẩm 1" width="200">
+                    <p>BÁNH MÌ NẤM ĐÙI GÀ</p>
+                    <p>Giá: 20,000 VND</p>
+                </li>
+                <li>
+                    <img src="https://tse3.mm.bing.net/th?id=OIG2.DdxQU4fFKgcvXDWqCgqe&pid=ImgGn.jpg" alt="Sản phẩm 1" width="200">
+                    <p>Bánh Mì Nấm Mỡ</p>
+                    <p>Giá: 20,000 VND</p>
+                </li>
+                <li>
+                    <img src="https://tse3.mm.bing.net/th?id=OIG2.DdxQU4fFKgcvXDWqCgqe&pid=ImgGn.jpg" alt="Sản phẩm 2" width="200">
+                    <p>BÁNH MÌ CHAY </p>
+                    <p>Giá: 14.000 VND</p>
+                </li> 
+                <li>
+                    <img src="https://tse3.mm.bing.net/th?id=OIG2.DdxQU4fFKgcvXDWqCgqe&pid=ImgGn.jpg" alt="Sản phẩm 1" width="200">
+                    <p>BÁNH MÌ NẤM ĐÙI GÀ</p>
+                    <p>Giá: 20,000 VND</p>
+                </li>
+                <!-- Thêm nhiều sản phẩm hơn ở đây -->
             </ul>
         </section>
     </main>
     <footer>
-        <p>&copy; NGẪU cảm ơn, chúc ngon miệng .</p>
+        <p>&copy; NGẪU cảm ơn, chúc ngon miệng.</p>
+    </footer>
+    <header>
+        <h1>ĐỊA CHỈ:</h1>
+        <nav>
+    <footer>
+        <li><a href="#ff330">chi nhánh 1</a></li>
+        <li><a href="#ff330">chi nhánh 2</a></li>
+        <li><a href="#ff330">chi nhánh 3</a></li>
     </footer>
 </body>
 </html>
